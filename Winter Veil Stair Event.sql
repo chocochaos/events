@@ -10,12 +10,16 @@
 -- Winter Veil Stair Event was originally created in December 2011 by Chocochaos.
 -- Event decoration by Chocochaos, Nionar and Origin (back then Staff members at Crusade Gaming).
 
+
+
 -- CONFIGURATION --
 SET @startGameobjectGuid := 6500000; -- Start guid to use in the gameobject table. Make sure the whole range, starting from tis is, to this id + 5417 is free in your gameobject table.
 SET @newGameobjectEntry := 650001; -- Id to use for a new gameobject. Make sure it does not yet exist in gameobject_template.
 
 SET @eventId := 65; -- Id to use for the event. Make sure this id does not yet exist in game_event.
 SET @eventDescription := 'Winter veil stair event. DIFFICULTY: easy, LENGTH: long.'; -- Description of the event. Might be announced in-game depending on your server configuration.
+
+
 
 -- DO NOT EDIT BELOW --
 INSERT INTO `game_event` (`eventEntry`, `start_time`, `end_time`, `occurence`, `length`, `holiday`, `description`, `world_event`) VALUES (@eventId, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '9999999', '2592000', '0', @eventDescription, '0');
@@ -5441,10 +5445,7 @@ INSERT INTO `gameobject` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `positi
     ((@startGameobjectGuid + 5415), @newGameobjectEntry, 1, 1, 1, 16208, 16394.5, 170.817, 4.8644, 0, 0, 0.651373, -0.758758, 1, 0, 1),
     ((@startGameobjectGuid + 5416), @newGameobjectEntry, 1, 1, 1, 16205.3, 16394.2, 170.816, 4.84673, 0, 0, 0.658052, -0.752973, 1, 0, 1),
     ((@startGameobjectGuid + 5417), 181170, 1, 1, 1, 16226.5, 16286.5, 20.8448, 0.0339918, 0, 0, 0.0169951, 0.999856, 300, 0, 1);
-/*!40000 ALTER TABLE `gameobject` ENABLE KEYS */;
 
--- Dumping data for table test.game_event_gameobject: 0 rows
-/*!40000 ALTER TABLE `game_event_gameobject` DISABLE KEYS */;
 INSERT INTO `game_event_gameobject` (`eventEntry`, `guid`) VALUES
     (@eventId, (@startGameobjectGuid + 1)),
     (@eventId, (@startGameobjectGuid + 2)),
@@ -10862,7 +10863,4 @@ INSERT INTO `game_event_gameobject` (`eventEntry`, `guid`) VALUES
     (@eventId, (@startGameobjectGuid + 5414)),
     (@eventId, (@startGameobjectGuid + 5415)),
     (@eventId, (@startGameobjectGuid + 5416)),
-    (1, 5417);
-/*!40000 ALTER TABLE `game_event_gameobject` ENABLE KEYS */;
-/*!40014 SET FOREIGN_KEY_CHECKS=1 */;
-/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+    (@eventId, (@startGameobjectGuid + 5417));
