@@ -27,7 +27,7 @@ If you run the event on your server, I'd appreciate if you could make some scree
 
 [b][size=6]Usage instructions[/size][/b]
 
-[list=1][*]Download the event SQL:
+[list=1][*]Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Winter%20Veil%20Stair%20Event/Winter%20Veil%20Stair%20Event.sql
 [*]Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
 [*]Execute the SQL file on your database.
 [*]Restart the server (unfortunately reloading gameobjects is not possible in-game).

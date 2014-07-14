@@ -33,7 +33,7 @@ If you run the event on your server, I'd appreciate if you could make some scree
 Usage instructions
 -------
 
-1.  Download the event SQL (browse to the file on github, then click the RAW-button).
+1.  Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Winter%20Veil%20Stair%20Event/Winter%20Veil%20Stair%20Event.sql
 2.  Edit the file with notepad (or an other text editor, but certainly NOT word) and review the configuration variables at the top.
 3.  Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
 4.  Execute the SQL file on your database.
