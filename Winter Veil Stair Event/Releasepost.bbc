@@ -1,0 +1,56 @@
+[b][size=6]Winter Veil Stair Event[/size][/b]
+
+Winter Veil Stair Event is a stair event in winter/christmas theme. It was originally made for Crusade Gaming in December 2011.
+
+This event was made/built by Chocochaos, with the help of Nionar and Origin, back then staff members at Crusade Gaming.
+
+[b]Event information:[/b]
+[list][*][b]Type:[/b] stair event
+[*][b]Difficulty:[/b] easy
+[*][b]Length:[/b] long
+[*][b]Location:[/b] GM Island[/list]
+[b]Server requirements:[/b]
+[list][*][b]Emulator:[/b] TrinityCore
+[*][b]Game version:[/b] 3.3.5[/list]
+
+It might be possible to use the event on other emulators/game versions, this has not been tested so far though. If you have successfully imported the event on an other emulator/version, please let me know (gmgenie [at] chocochaos [dot] com).
+
+
+
+[b][size=6]Screenshots and videos[/size][/b]
+
+[video=youtube;A_4r1vEJ3MQ]https://www.youtube.com/watch?v=A_4r1vEJ3MQ[/video]
+
+If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
+
+
+
+[b][size=6]Usage instructions[/size][/b]
+
+[list=1][*]Download the event SQL:
+[*]Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
+[*]Execute the SQL file on your database.
+[*]Restart the server (unfortunately reloading gameobjects is not possible in-game).
+[*]When the server is back up, you can start/spawn the event with [i].event start <event_id>[/i]. When you are finished use [i].event stop <event_id>[/i] to despawn it again.[/list]
+
+
+
+[b][size=6]Reposts and modifications[/size][/b]
+
+Since Winter Veil Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
+
+However, I would appreciate it if you could drop me a message if you post/publish this event somewhere. Partly because I like to know where it is being spread, but also so I can add new versions to those threads when they are released. It would be a shame if everyone keeps using some ancient version because it was once posted on a forum, and never updated there.
+
+You can drop me an e-mail at gmgenie [at] chocochaos [dot] com
+
+It's not a requirement to inform me, but I would appreciate it =)
+
+
+
+[b][size=6]Changelog[/size][/b]
+
+[b]July 14th 2014:[/b]
+[list][*]Public event release.[/list]
+
+[b]December 2011:[/b]
+[list][*]Event created on Crusade Gaming.[/list]
