@@ -12,7 +12,6 @@ This event was made/built by Chocochaos, with the help of Nionar and Origin, bac
 [b]Server requirements:[/b]
 [list][*][b]Emulator:[/b] TrinityCore
 [*][b]Game version:[/b] 3.3.5[/list]
-
 It might be possible to use the event on other emulators/game versions, this has not been tested so far though. If you have successfully imported the event on an other emulator/version, please let me know (gmgenie [at] chocochaos [dot] com).
 
 
@@ -34,7 +33,6 @@ If you run the event on your server, I'd appreciate if you could make some scree
 [*]When the server is back up, you can start/spawn the event with [i].event start <event_id>[/i]. When you are finished use [i].event stop <event_id>[/i] to despawn it again.[/list]
 
 
-
 [b][size=6]Reposts and modifications[/size][/b]
 
 Since Winter Veil Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
@@ -51,6 +49,5 @@ It's not a requirement to inform me, but I would appreciate it =)
 
 [b]July 14th 2014:[/b]
 [list][*]Public event release.[/list]
-
 [b]December 2011:[/b]
 [list][*]Event created on Crusade Gaming.[/list]
