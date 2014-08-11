@@ -25,7 +25,7 @@ SET @eventDescription := 'Winter veil stair event. DIFFICULTY: easy, LENGTH: lon
 INSERT INTO `game_event` (`eventEntry`, `start_time`, `end_time`, `occurence`, `length`, `holiday`, `description`, `world_event`)
     VALUES (@eventId, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '9999999', '2592000', '0', @eventDescription, '0');
 
-INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`, `data0`, `data1`, `data6`, `WDBVerified`)
+INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`, `data0`, `data1`, `data6`, `VerifiedBuild`)
     VALUES (@newGameobjectEntry, 5, 1569, 'Log2', 0.68, 2, 1, 0, 12340);
 
 INSERT INTO `gameobject` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`) VALUES
