@@ -39,7 +39,7 @@ Usage instructions
 3.  Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
 4.  Execute the SQL file on your database.
 5.  Restart the server (unfortunately reloading gameobjects is not possible in-game).
-6.  When the server is back up, you can start/spawn the event with *.event start <event_id>*. When you are finished use *.event stop <event_id>* to despawn it again.
+6.  When the server is back up, you can start/spawn the event with *.event start \[event_id\]*. When you are finished use *.event stop \[event_id\]* to despawn it again.
 
 
 
