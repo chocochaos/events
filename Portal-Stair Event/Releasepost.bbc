@@ -1,25 +1,30 @@
-[b][size=6]Winter Veil Stair Event[/size][/b]
+[b][size=6]Portal-Stair Event[/size][/b]
 
-Winter Veil Stair Event is a stair event in winter/christmas theme. It was originally made for Crusade Gaming in December 2011.
+Alright, I promised I would release at least one event this weekend. This is another stair event, with a puzzle in the middle. It's not very big, nor does it look very pretty, it's more a proof of concept, but it can still be fun to run. The stair part itself is fairly tricky, so players might get annoyed ;)
 
-This event was made/built by Chocochaos, with the help of Nionar and Origin, back then staff members at Crusade Gaming.
+The event was originally made by me for Crusade Gaming in 2012.
 
 [b]Event information:[/b]
-[list][*][b]Type:[/b] stair event
-[*][b]Difficulty:[/b] easy
-[*][b]Length:[/b] long
-[*][b]Location:[/b] GM Island
-[*][b]Decoration/theme:[/b] christmas / winter veil[/list]
+[list][*][b]Type:[/b] stair event with portal puzzle
+[*][b]Difficulty:[/b] advanced
+[*][b]Length:[/b] short
+[*][b]Location:[/b] Shatterspear Village (Darkshore)
+[*][b]Decoration/theme:[/b] none[/list]
 [b]Server requirements:[/b]
 [list][*][b]Emulator:[/b] TrinityCore
 [*][b]Game version:[/b] 3.3.5[/list]
 It might be possible to use the event on other emulators/game versions, this has not been tested so far though. If you have successfully imported the event on an other emulator/version, please let me know (gmgenie [at] chocochaos [dot] com).
 
+Please note that this event takes place on Kalimdor, if you are running Cataclysm or higher, or if you are using some custom fly-patch, this event will be in a flying zone, and thus not usable for you.
+
 
 
 [b][size=6]Screenshots and videos[/size][/b]
 
-[video=youtube;A_4r1vEJ3MQ]https://www.youtube.com/watch?v=A_4r1vEJ3MQ[/video]
+Unfortunately, no event video has been made yet. If you have one, please let me know!
+
+[b]Portal puzzle screenshot:[/b]
+[url=http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.jpg][img]http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.thumb.jpg[/img][/url]
 
 If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
 
@@ -27,7 +32,7 @@ If you run the event on your server, I'd appreciate if you could make some scree
 
 [b][size=6]Usage instructions[/size][/b]
 
-[list=1][*]Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Winter%20Veil%20Stair%20Event/Winter%20Veil%20Stair%20Event.sql
+[list=1][*]Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Portal-Stair%20Event/Portal-Stair%20Event.sql
 [*]Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
 [*]Execute the SQL file on your database.
 [*]Restart the server (unfortunately reloading gameobjects is not possible in-game).
@@ -36,7 +41,7 @@ If you run the event on your server, I'd appreciate if you could make some scree
 
 [b][size=6]Reposts and modifications[/size][/b]
 
-Since Winter Veil Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
+Since Portal-Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
 
 However, I would appreciate it if you could drop me a message if you post/publish this event somewhere. Partly because I like to know where it is being spread, but also so I can add new versions to those threads when they are released. It would be a shame if everyone keeps using some ancient version because it was once posted on a forum, and never updated there.
 
@@ -48,9 +53,7 @@ It's not a requirement to inform me, but I would appreciate it =)
 
 [b][size=6]Changelog[/size][/b]
 
-[b]September 1st 2014:[/b]
-[list][*]Fix for VerifiedBuild field.[/list]
-[b]July 14th 2014:[/b]
+[b]September 7th 2014:[/b]
 [list][*]Public event release.[/list]
-[b]December 2011:[/b]
+[b]2012:[/b]
 [list][*]Event created on Crusade Gaming.[/list]

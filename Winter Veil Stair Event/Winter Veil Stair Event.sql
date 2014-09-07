@@ -13,7 +13,7 @@
 
 
 -- CONFIGURATION --
-SET @startGameobjectGuid := 6500000; -- Start guid to use in the gameobject table. Make sure the whole range, starting from tis is, to this id + 5417 is free in your gameobject table.
+SET @startGameobjectGuid := 6500000; -- Start guid to use in the gameobject table. Make sure the whole range, starting from this id, to this id + 5417 is free in your gameobject table.
 SET @newGameobjectEntry := 650001; -- Id to use for a new gameobject. Make sure it does not yet exist in gameobject_template.
 
 SET @eventId := 65; -- Id to use for the event. Make sure this id does not yet exist in game_event.

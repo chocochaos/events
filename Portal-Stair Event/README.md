@@ -1,17 +1,15 @@
-Winter Veil Stair Event
+Portal-Stair Event
 =======
 
-Winter Veil Stair Event is a stair event in winter/christmas theme. It was originally made for Crusade Gaming in December 2011.
-
-This event was made/built by Chocochaos, with the help of Nionar and Origin, back then staff members at Crusade Gaming.
+Portal-Stair Event is a stair event with an additional puzzle in the middle. It was originally made by Chocochaos for Crusade Gaming in 2012.
 
 **Event information:**
 
-*   **Type:** stair event
-*   **Difficulty:** easy
-*   **Length:** long
-*   **Location:** GM Island
-*   **Decoration/theme:** christmas / winter veil
+*   **Type:** stair event with portal puzzle
+*   **Difficulty:** advanced
+*   **Length:** short
+*   **Location:** Shatterspear Village (Darkshore)
+*   **Decoration/theme:** none
 
 **Server requirements:**
 
@@ -20,12 +18,16 @@ This event was made/built by Chocochaos, with the help of Nionar and Origin, bac
 
 It might be possible to use the event on other emulators/game versions, this has not been tested so far though. If you have successfully imported the event on an other emulator/version, please let me know (gmgenie [at] chocochaos [dot] com).
 
+Please note that this event takes place on Kalimdor, if you are running Cataclysm or higher, or if you are using some custom fly-patch, this event will be in a flying zone, and thus not usable for you.
+
 
 
 Screenshots and videos
 -------
 
-*   **Original event video on youtube:** https://www.youtube.com/watch?v=A_4r1vEJ3MQ
+Unfortunately, no event video has been made yet. If you have one, please let me know!
+
+*   **Portal puzzle:** [![Screenshot of Portal Puzzle](http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.jpg)
 
 If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
 
@@ -34,7 +36,7 @@ If you run the event on your server, I'd appreciate if you could make some scree
 Usage instructions
 -------
 
-1.  Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Winter%20Veil%20Stair%20Event/Winter%20Veil%20Stair%20Event.sql
+1.  Download the event SQL: https://raw.githubusercontent.com/chocochaos/events/master/Portal-Stair%20Event/Portal-Stair%20Event.sql
 2.  Edit the file with notepad (or an other text editor, but certainly NOT word) and review the configuration variables at the top.
 3.  Check if the event and gameobject_template ids you configured are available in the database. Also check if the guids in the gameobject table are not taken yet.
 4.  Execute the SQL file on your database.
@@ -46,7 +48,7 @@ Usage instructions
 Reposts and modifications
 -------
 
-Since Winter Veil Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
+Since Portal-Stair Event is under an open source license (GPLv3), any modifications and redistributions of the SQL are explicitly allowed, as long as copyright and license notices remain intact.
 
 However, I would appreciate it if you could drop me a message if you post/publish this event somewhere. Partly because I like to know where it is being spread, but also so I can add new versions to those threads when they are released. It would be a shame if everyone keeps using some ancient version because it was once posted on a forum, and never updated there.
 
@@ -59,14 +61,10 @@ It's not a requirement to inform me, but I would appreciate it =)
 Changelog
 -------
 
-**September 1st 2014:**
-
-*   Fix for VerifiedBuild field.
-
-**July 14th 2014:**
+**September 7th 2014:**
 
 *   Public event release.
 
-**December 2011:**
+**2012:**
 
 *   Event created on Crusade Gaming.
