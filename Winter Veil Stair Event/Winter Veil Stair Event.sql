@@ -22,13 +22,13 @@ SET @eventDescription := 'Winter veil stair event. DIFFICULTY: easy, LENGTH: lon
 
 
 -- DO NOT EDIT BELOW --
-INSERT INTO `game_event` (`eventEntry`, `start_time`, `end_time`, `occurence`, `length`, `holiday`, `description`, `world_event`)
+REPLACE INTO `game_event` (`eventEntry`, `start_time`, `end_time`, `occurence`, `length`, `holiday`, `description`, `world_event`)
     VALUES (@eventId, '0000-00-00 00:00:00', '0000-00-00 00:00:00', '9999999', '2592000', '0', @eventDescription, '0');
 
-INSERT INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`, `data0`, `data1`, `data6`, `VerifiedBuild`)
+REPLACE INTO `gameobject_template` (`entry`, `type`, `displayId`, `name`, `size`, `data0`, `data1`, `data6`, `VerifiedBuild`)
     VALUES (@newGameobjectEntry, 5, 1569, 'Log2', 0.68, 2, 1, 0, 12340);
 
-INSERT INTO `gameobject` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`) VALUES
+REPLACE INTO `gameobject` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `position_x`, `position_y`, `position_z`, `orientation`, `rotation0`, `rotation1`, `rotation2`, `rotation3`, `spawntimesecs`, `animprogress`, `state`) VALUES
     ((@startGameobjectGuid + 1), 180373, 1, 1, 1, 16252, 16330.8, 177.923, 1.89674, 0, 0, 0.812467, 0.583008, 300, 0, 1),
     ((@startGameobjectGuid + 2), 180373, 1, 1, 1, 16253.9, 16360.7, 177.942, 0.39663, 0, 0, 0.197018, 0.9804, 300, 0, 1),
     ((@startGameobjectGuid + 3), 180373, 1, 1, 1, 16252, 16379.2, 177.923, 4.69276, 0, 0, 0.714012, -0.700133, 300, 0, 1),
@@ -5447,7 +5447,7 @@ INSERT INTO `gameobject` (`guid`, `id`, `map`, `spawnMask`, `phaseMask`, `positi
     ((@startGameobjectGuid + 5416), @newGameobjectEntry, 1, 1, 1, 16205.3, 16394.2, 170.816, 4.84673, 0, 0, 0.658052, -0.752973, 1, 0, 1),
     ((@startGameobjectGuid + 5417), 181170, 1, 1, 1, 16226.5, 16286.5, 20.8448, 0.0339918, 0, 0, 0.0169951, 0.999856, 300, 0, 1);
 
-INSERT INTO `game_event_gameobject` (`eventEntry`, `guid`) VALUES
+REPLACE INTO `game_event_gameobject` (`eventEntry`, `guid`) VALUES
     (@eventId, (@startGameobjectGuid + 1)),
     (@eventId, (@startGameobjectGuid + 2)),
     (@eventId, (@startGameobjectGuid + 3)),
