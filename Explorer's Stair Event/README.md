@@ -30,19 +30,19 @@ Unfortunately, no event video has been made yet. If you have one, please let me 
 
 **Screenshots:**
 
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 1.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 1.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 2.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 2.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 3.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 3.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 4.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 4.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 5.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 5.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 6.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 6.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 07.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 07.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 08.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 08.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 09.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 09.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 10.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 10.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 11.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 11.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 12.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 12.jpg)
-[![](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 13.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Explorer's Stair 13.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 1.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 1.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 2.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 2.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 3.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 3.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 4.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 4.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 5.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 5.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 6.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 6.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 07.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 07.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 08.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 08.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 09.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 09.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 10.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 10.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 11.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 11.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 12.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 12.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 13.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 13.jpg)
 
 If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
 
