@@ -27,7 +27,7 @@ Screenshots and videos
 
 Unfortunately, no event video has been made yet. If you have one, please let me know!
 
-*   **Portal puzzle:** [![Screenshot of Portal Puzzle](http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.thumb.jpg)](http://www.chocochaos.com/gmgenie/events/Portal-Stair Event.jpg)
+*   **Portal puzzle:** [![Screenshot of Portal Puzzle](https://filedump.chocochaos.com/GitHub/Events/Portal-Stair%20Event.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Portal-Stair%20Event.jpg)
 
 If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
 
