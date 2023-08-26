@@ -30,19 +30,19 @@ Unfortunately, no event video has been made yet. If you have one, please let me 
 
 **Screenshots:**
 
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 1.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 1.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 2.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 2.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 3.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 3.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 4.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 4.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 5.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 5.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 6.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 6.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 07.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 07.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 08.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 08.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 09.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 09.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 10.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 10.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 11.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 11.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 12.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 12.jpg)
-[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 13.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's Stair 13.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%201.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%201.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%202.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%202.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%203.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%203.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%204.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%204.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%205.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%205.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%206.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%206.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2007.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2007.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2008.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2008.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2009.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2009.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2010.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2010.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2011.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2011.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2012.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2012.jpg)
+[![](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2013.thumb.jpg)](https://filedump.chocochaos.com/GitHub/Events/Explorer's%20Stair%2013.jpg)
 
 If you run the event on your server, I'd appreciate if you could make some screenshots or videos and send them to me (gmgenie [at] chocochaos [dot] com).
 
